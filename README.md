@@ -1,4 +1,4 @@
-# Foobar
+# Repository for Source Code
 
 Repository for Django Training Source Code.
 
