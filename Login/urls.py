@@ -4,6 +4,7 @@ from django.urls import path
 #app urls
 
 urlpatterns = [
-    path("homepage/",views.homepage),
-    path("homepage/users",views.user),
+    path("",views.homepage),
+    path("users",views.user),
+    path("index", views.index),
 ]
